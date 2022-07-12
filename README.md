@@ -34,6 +34,16 @@ git commit -m "feat(lang): add tradução para ingles"
 git commit -m "Add placeholder on input"
 ```
 
+- 1.2 [Git Igore](#12-git-ignore)
+
+### 1.2 Git Ignore
+
+Sempre adicionar ao git ignore as pastas de configurações dos frameworks e uploads. Exemplo:
+
+  * node_modules
+  * vendor
+  * uploads
+
 **[⬆ voltar ao sumário](#-indice)**
 
 ---
@@ -427,5 +437,3 @@ Evite aninhar elementos, pois isso diminui o desempenho e aumenta a especificida
     * Subir arquivos manualmente via FTP   
 
 **[⬆ voltar ao sumário](#-indice)**
-
----
